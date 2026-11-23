@@ -1,0 +1,11 @@
+export { default as LogoIcon } from './LogoIcon';
+export { default as TestimonialBadgeIcon } from './TestimonialBadgeIcon';
+export { default as ServicesBadgeIcon } from './ServicesBadgeIcon';
+export { default as PricingBadgeIcon } from './PricingBadgeIcon';
+export { default as TwitterIcon } from './TwitterIcon';
+export { default as LinkedInIcon } from './LinkedInIcon';
+export { default as GitHubIcon } from './GitHubIcon';
+export { default as HeroPatternSvg } from './HeroPatternSvg';
+export { default as CheckIcon } from './CheckIcon';
+export { default as MenuIcon } from './MenuIcon';
+export { default as CloseIcon } from './CloseIcon';
